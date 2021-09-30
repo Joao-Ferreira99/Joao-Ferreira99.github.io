@@ -36,7 +36,7 @@ a::before{
     margin-right: 10px;
 }
 
-.button {
+#button, .ButtomBanner {
     display: inline-block;
     background-color: #5D5FEF;
     height: 60px;
@@ -47,14 +47,14 @@ a::before{
     margin-right: 0;
     transition: transform 150ms linear;
 }
-.button:hover{
+#button:hover{
     background-color: #7f81d6;
     box-shadow: 5px 5px 5px #333;
     transform: scale(1.07);
     
 }
 .boxnome {
-    margin: 116px 0px 497px 91px;
+    margin: 116px 0px 0px 91px;
     width: 627px;
     height: 184px;
     background-color: #3A4042;
@@ -77,4 +77,12 @@ a::before{
     font-family: 'Press Start 2P', cursive, sans-serif;
     font-weight: 400;
     text-shadow: 4px 4px #000;
+}
+.ButtomBanner {
+    margin-top: 38px;
+    
+}
+#ButtonOne {
+ margin-left: 181px;
+ margin-right: 112px;
 }
