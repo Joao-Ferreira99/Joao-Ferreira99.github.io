@@ -7,7 +7,7 @@ header{
     align-items: center;
     
 }
-h2{
+#icon{
     color: #000;
     font-size: 30px;
     font-family: 'Press Start 2P', cursive, sans-serif;
@@ -60,15 +60,6 @@ a::before{
     box-shadow: 10px 10px #000 ;
     text-align: center;
 
-}
-
-#cargo {
-    color: #a4a19d;
-    padding: 28px 47px 44px 40px;
-    font-size: 30px;
-    font-family: 'Press Start 2P', cursive, sans-serif;
-    font-weight: 400;
-    text-shadow: 4px 4px #000;
 }
 .ButtomBanner {
     margin-top: 38px;
