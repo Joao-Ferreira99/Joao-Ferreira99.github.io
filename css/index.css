@@ -7,13 +7,12 @@ header{
     align-items: center;
     
 }
-h1{
+h2{
     color: #000;
     font-size: 30px;
     font-family: 'Press Start 2P', cursive, sans-serif;
     text-shadow: 3px 5px 5px #5D5FEF ;
- 
- }
+}
 nav{
     text-align: right;
 }
@@ -62,14 +61,7 @@ a::before{
     text-align: center;
 
 }
-#nome {
-    color: #FFFF00;
-    padding: 42px 74px 0px 73px;
-    font-size: 40px;
-    font-family: 'Press Start 2P', cursive, sans-serif;
-    font-weight: 400;
-    text-shadow: 4px 4px #000;
-}
+
 #cargo {
     color: #a4a19d;
     padding: 28px 47px 44px 40px;
