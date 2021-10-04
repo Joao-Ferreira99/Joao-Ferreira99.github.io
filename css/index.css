@@ -52,15 +52,6 @@ a::before{
     transform: scale(1.07);
     
 }
-.boxnome {
-    margin: 116px 0px 0px 91px;
-    width: 627px;
-    height: 184px;
-    background-color: #3A4042;
-    box-shadow: 10px 10px #000 ;
-    text-align: center;
-
-}
 .ButtomBanner {
     margin-top: 38px;
     
